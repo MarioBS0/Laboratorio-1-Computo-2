@@ -33,5 +33,3 @@ if __name__ == "__main__":
     #Esto es para mostrar la ventana            
     window.show()                        
     sys.exit(app.exec_())               
-
-#Esto es el ultimo ejercicio 👻👻👻
